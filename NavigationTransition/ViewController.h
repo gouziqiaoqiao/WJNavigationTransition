@@ -7,8 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "PhotoCell.h"
 
 @interface ViewController : UIViewController
+
+// 点击的单元格公开
+@property (nonatomic, strong) PhotoCell *cell;
 
 
 @end

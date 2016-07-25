@@ -13,6 +13,25 @@
 		DA27B7071D45AED70062AE64 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA27B7051D45AED70062AE64 /* Main.storyboard */; };
 		DA27B7091D45AED70062AE64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA27B7081D45AED70062AE64 /* Assets.xcassets */; };
 		DA27B70C1D45AED70062AE64 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA27B70A1D45AED70062AE64 /* LaunchScreen.storyboard */; };
+		DA27B7231D45AEED0062AE64 /* 圣斗士01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA27B7141D45AEEC0062AE64 /* 圣斗士01.jpg */; };
+		DA27B7241D45AEED0062AE64 /* 圣斗士02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA27B7151D45AEEC0062AE64 /* 圣斗士02.jpg */; };
+		DA27B7251D45AEED0062AE64 /* 圣斗士03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA27B7161D45AEEC0062AE64 /* 圣斗士03.jpg */; };
+		DA27B7261D45AEED0062AE64 /* 圣斗士04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA27B7171D45AEEC0062AE64 /* 圣斗士04.jpg */; };
+		DA27B7271D45AEED0062AE64 /* 圣斗士05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA27B7181D45AEEC0062AE64 /* 圣斗士05.jpg */; };
+		DA27B7281D45AEED0062AE64 /* 圣斗士06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA27B7191D45AEEC0062AE64 /* 圣斗士06.jpg */; };
+		DA27B7291D45AEED0062AE64 /* 圣斗士07.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA27B71A1D45AEEC0062AE64 /* 圣斗士07.jpg */; };
+		DA27B72A1D45AEED0062AE64 /* 圣斗士08.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA27B71B1D45AEEC0062AE64 /* 圣斗士08.jpg */; };
+		DA27B72B1D45AEED0062AE64 /* 圣斗士09.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA27B71C1D45AEEC0062AE64 /* 圣斗士09.jpg */; };
+		DA27B72C1D45AEED0062AE64 /* 圣斗士10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA27B71D1D45AEEC0062AE64 /* 圣斗士10.jpg */; };
+		DA27B72D1D45AEED0062AE64 /* 圣斗士11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA27B71E1D45AEEC0062AE64 /* 圣斗士11.jpg */; };
+		DA27B72E1D45AEED0062AE64 /* 圣斗士12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA27B71F1D45AEEC0062AE64 /* 圣斗士12.jpg */; };
+		DA27B72F1D45AEED0062AE64 /* 圣斗士13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA27B7201D45AEEC0062AE64 /* 圣斗士13.jpg */; };
+		DA27B7301D45AEED0062AE64 /* 圣斗士14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA27B7211D45AEED0062AE64 /* 圣斗士14.jpg */; };
+		DA27B7311D45AEED0062AE64 /* 圣斗士15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA27B7221D45AEED0062AE64 /* 圣斗士15.jpg */; };
+		DA27B7341D45AF210062AE64 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DA27B7331D45AF210062AE64 /* DetailViewController.m */; };
+		DA27B7371D45B0500062AE64 /* PhotoCell.m in Sources */ = {isa = PBXBuildFile; fileRef = DA27B7361D45B0500062AE64 /* PhotoCell.m */; };
+		DA27B73B1D45B6430062AE64 /* PushAnimator.m in Sources */ = {isa = PBXBuildFile; fileRef = DA27B73A1D45B6430062AE64 /* PushAnimator.m */; };
+		DA27B73E1D45BB260062AE64 /* PopAnimator.m in Sources */ = {isa = PBXBuildFile; fileRef = DA27B73D1D45BB260062AE64 /* PopAnimator.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +45,29 @@
 		DA27B7081D45AED70062AE64 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA27B70B1D45AED70062AE64 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DA27B70D1D45AED70062AE64 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DA27B7141D45AEEC0062AE64 /* 圣斗士01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "圣斗士01.jpg"; sourceTree = "<group>"; };
+		DA27B7151D45AEEC0062AE64 /* 圣斗士02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "圣斗士02.jpg"; sourceTree = "<group>"; };
+		DA27B7161D45AEEC0062AE64 /* 圣斗士03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "圣斗士03.jpg"; sourceTree = "<group>"; };
+		DA27B7171D45AEEC0062AE64 /* 圣斗士04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "圣斗士04.jpg"; sourceTree = "<group>"; };
+		DA27B7181D45AEEC0062AE64 /* 圣斗士05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "圣斗士05.jpg"; sourceTree = "<group>"; };
+		DA27B7191D45AEEC0062AE64 /* 圣斗士06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "圣斗士06.jpg"; sourceTree = "<group>"; };
+		DA27B71A1D45AEEC0062AE64 /* 圣斗士07.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "圣斗士07.jpg"; sourceTree = "<group>"; };
+		DA27B71B1D45AEEC0062AE64 /* 圣斗士08.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "圣斗士08.jpg"; sourceTree = "<group>"; };
+		DA27B71C1D45AEEC0062AE64 /* 圣斗士09.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "圣斗士09.jpg"; sourceTree = "<group>"; };
+		DA27B71D1D45AEEC0062AE64 /* 圣斗士10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "圣斗士10.jpg"; sourceTree = "<group>"; };
+		DA27B71E1D45AEEC0062AE64 /* 圣斗士11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "圣斗士11.jpg"; sourceTree = "<group>"; };
+		DA27B71F1D45AEEC0062AE64 /* 圣斗士12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "圣斗士12.jpg"; sourceTree = "<group>"; };
+		DA27B7201D45AEEC0062AE64 /* 圣斗士13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "圣斗士13.jpg"; sourceTree = "<group>"; };
+		DA27B7211D45AEED0062AE64 /* 圣斗士14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "圣斗士14.jpg"; sourceTree = "<group>"; };
+		DA27B7221D45AEED0062AE64 /* 圣斗士15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "圣斗士15.jpg"; sourceTree = "<group>"; };
+		DA27B7321D45AF210062AE64 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		DA27B7331D45AF210062AE64 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		DA27B7351D45B0500062AE64 /* PhotoCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PhotoCell.h; sourceTree = "<group>"; };
+		DA27B7361D45B0500062AE64 /* PhotoCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PhotoCell.m; sourceTree = "<group>"; };
+		DA27B7391D45B6430062AE64 /* PushAnimator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PushAnimator.h; sourceTree = "<group>"; };
+		DA27B73A1D45B6430062AE64 /* PushAnimator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PushAnimator.m; sourceTree = "<group>"; };
+		DA27B73C1D45BB260062AE64 /* PopAnimator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PopAnimator.h; sourceTree = "<group>"; };
+		DA27B73D1D45BB260062AE64 /* PopAnimator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopAnimator.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,10 +100,16 @@
 		DA27B6FB1D45AED70062AE64 /* NavigationTransition */ = {
 			isa = PBXGroup;
 			children = (
+				DA27B7381D45B6250062AE64 /* navigationAnimator */,
+				DA27B7131D45AEEC0062AE64 /* 圣斗士 */,
 				DA27B6FF1D45AED70062AE64 /* AppDelegate.h */,
 				DA27B7001D45AED70062AE64 /* AppDelegate.m */,
 				DA27B7021D45AED70062AE64 /* ViewController.h */,
 				DA27B7031D45AED70062AE64 /* ViewController.m */,
+				DA27B7321D45AF210062AE64 /* DetailViewController.h */,
+				DA27B7331D45AF210062AE64 /* DetailViewController.m */,
+				DA27B7351D45B0500062AE64 /* PhotoCell.h */,
+				DA27B7361D45B0500062AE64 /* PhotoCell.m */,
 				DA27B7051D45AED70062AE64 /* Main.storyboard */,
 				DA27B7081D45AED70062AE64 /* Assets.xcassets */,
 				DA27B70A1D45AED70062AE64 /* LaunchScreen.storyboard */,
@@ -77,6 +125,39 @@
 				DA27B6FD1D45AED70062AE64 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		DA27B7131D45AEEC0062AE64 /* 圣斗士 */ = {
+			isa = PBXGroup;
+			children = (
+				DA27B7141D45AEEC0062AE64 /* 圣斗士01.jpg */,
+				DA27B7151D45AEEC0062AE64 /* 圣斗士02.jpg */,
+				DA27B7161D45AEEC0062AE64 /* 圣斗士03.jpg */,
+				DA27B7171D45AEEC0062AE64 /* 圣斗士04.jpg */,
+				DA27B7181D45AEEC0062AE64 /* 圣斗士05.jpg */,
+				DA27B7191D45AEEC0062AE64 /* 圣斗士06.jpg */,
+				DA27B71A1D45AEEC0062AE64 /* 圣斗士07.jpg */,
+				DA27B71B1D45AEEC0062AE64 /* 圣斗士08.jpg */,
+				DA27B71C1D45AEEC0062AE64 /* 圣斗士09.jpg */,
+				DA27B71D1D45AEEC0062AE64 /* 圣斗士10.jpg */,
+				DA27B71E1D45AEEC0062AE64 /* 圣斗士11.jpg */,
+				DA27B71F1D45AEEC0062AE64 /* 圣斗士12.jpg */,
+				DA27B7201D45AEEC0062AE64 /* 圣斗士13.jpg */,
+				DA27B7211D45AEED0062AE64 /* 圣斗士14.jpg */,
+				DA27B7221D45AEED0062AE64 /* 圣斗士15.jpg */,
+			);
+			path = "圣斗士";
+			sourceTree = "<group>";
+		};
+		DA27B7381D45B6250062AE64 /* navigationAnimator */ = {
+			isa = PBXGroup;
+			children = (
+				DA27B7391D45B6430062AE64 /* PushAnimator.h */,
+				DA27B73A1D45B6430062AE64 /* PushAnimator.m */,
+				DA27B73C1D45BB260062AE64 /* PopAnimator.h */,
+				DA27B73D1D45BB260062AE64 /* PopAnimator.m */,
+			);
+			name = navigationAnimator;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,7 +218,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				DA27B70C1D45AED70062AE64 /* LaunchScreen.storyboard in Resources */,
+				DA27B72F1D45AEED0062AE64 /* 圣斗士13.jpg in Resources */,
+				DA27B72D1D45AEED0062AE64 /* 圣斗士11.jpg in Resources */,
+				DA27B7301D45AEED0062AE64 /* 圣斗士14.jpg in Resources */,
 				DA27B7091D45AED70062AE64 /* Assets.xcassets in Resources */,
+				DA27B7291D45AEED0062AE64 /* 圣斗士07.jpg in Resources */,
+				DA27B7271D45AEED0062AE64 /* 圣斗士05.jpg in Resources */,
+				DA27B72A1D45AEED0062AE64 /* 圣斗士08.jpg in Resources */,
+				DA27B7241D45AEED0062AE64 /* 圣斗士02.jpg in Resources */,
+				DA27B72E1D45AEED0062AE64 /* 圣斗士12.jpg in Resources */,
+				DA27B7281D45AEED0062AE64 /* 圣斗士06.jpg in Resources */,
+				DA27B72C1D45AEED0062AE64 /* 圣斗士10.jpg in Resources */,
+				DA27B7231D45AEED0062AE64 /* 圣斗士01.jpg in Resources */,
+				DA27B7311D45AEED0062AE64 /* 圣斗士15.jpg in Resources */,
+				DA27B7251D45AEED0062AE64 /* 圣斗士03.jpg in Resources */,
+				DA27B7261D45AEED0062AE64 /* 圣斗士04.jpg in Resources */,
+				DA27B72B1D45AEED0062AE64 /* 圣斗士09.jpg in Resources */,
 				DA27B7071D45AED70062AE64 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -150,8 +246,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				DA27B7041D45AED70062AE64 /* ViewController.m in Sources */,
+				DA27B7371D45B0500062AE64 /* PhotoCell.m in Sources */,
+				DA27B73E1D45BB260062AE64 /* PopAnimator.m in Sources */,
 				DA27B7011D45AED70062AE64 /* AppDelegate.m in Sources */,
 				DA27B6FE1D45AED70062AE64 /* main.m in Sources */,
+				DA27B73B1D45B6430062AE64 /* PushAnimator.m in Sources */,
+				DA27B7341D45AF210062AE64 /* DetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
